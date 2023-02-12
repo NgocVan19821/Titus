@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472496037",
+    "firebase_url": "https://titus-742e3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "titus-742e3",
+    "storage_bucket": "titus-742e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472496037:android:580b0226841f29bf225a4c",
+        "android_client_info": {
+          "package_name": "com.example.titus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472496037-m26uu6af24i05rku9in7a6voio58v4gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7QXXh0_cfDJJmj4OgGSsLyJlNxlMYd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472496037-m26uu6af24i05rku9in7a6voio58v4gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

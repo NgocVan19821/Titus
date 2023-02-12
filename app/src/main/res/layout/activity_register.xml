@@ -6,4 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".features.register.RegisterActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
 </RelativeLayout>

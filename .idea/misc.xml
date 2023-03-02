@@ -3,6 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/bg_bottom_nav.xml" value="0.2105" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/bg_circle_50sdp.xml" value="0.2105" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/bg_receive_text.xml" value="0.2105" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/bg_send_text.xml" value="0.2105" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/ic_invite.xml" value="0.2105" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/ic_no_react_red_heart.xml" value="0.2095" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/ic_red_heart.xml" value="0.2105" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/ic_user.xml" value="0.2105" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/drawable/stt_bottom_nav.xml" value="0.2105" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/activity_messenger.xml" value="0.22" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/activity_register.xml" value="0.3180846515604959" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/bg_circle_gray.xml" value="0.3172295852928602" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/fragment_menu.xml" value="0.3180846515604959" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/fragment_notification.xml" value="0.3180846515604959" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/fragment_profile.xml" value="0.3875" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/item_chat.xml" value="0.33" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/item_news.xml" value="0.3180846515604959" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/layout/item_story.xml" value="0.3140565639510342" />
+        <entry key="..\:/Flutter/Titus/app/src/main/res/menu/menu.xml" value="0.3875" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Titus/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/Titus/app/src/main/res/layout/activity_register.xml" value="0.2" />
       </map>
